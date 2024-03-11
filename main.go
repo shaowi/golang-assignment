@@ -1,3 +1,9 @@
+/*
+  - Instructions:
+    Enter the following commands in the terminal to run the server:
+    go run main.go -port 9000
+  - If an optional port number is specified, the server will listen on port 9000.
+*/
 package main
 
 import (
